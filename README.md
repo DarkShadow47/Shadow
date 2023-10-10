@@ -3,7 +3,7 @@
 I'm Shadow, a passionate Programmer . Welcome to my GitHub profile!
 
 🌱 **About Me:**
-- 🎓 I'm a engineer.
+- 🎓 I'm an engineer.
 - 💼 Currently at a learning adventure.
 - 🚀 I'm passionate about AI and Robotic.
 - 💡 I love to explore new technologies and develop exciting projects.
